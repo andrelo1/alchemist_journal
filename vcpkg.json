@@ -1,0 +1,9 @@
+{
+	"name": "myplugin",
+	"version": "1.2.3.4",
+	"dependencies": [
+		"commonlibsse",
+		"detours",
+		"nlohmann-json"
+	]
+}

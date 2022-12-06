@@ -1,0 +1,4 @@
+namespace AlchemistJournal
+{
+	void	Init();
+}
