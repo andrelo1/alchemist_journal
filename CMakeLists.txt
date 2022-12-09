@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.20)
 
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake/modules")
 
-project(AlchemistJournal VERSION 1.2.3.4)
+project(AlchemistJournal VERSION 1.3.0.0)
 
 find_package(CommonLibSSE REQUIRED)
 find_package(Detours REQUIRED)
